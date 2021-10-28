@@ -1,0 +1,9 @@
+/var/spool/slurm/job404654/slurm_script: line 15: cuda/10.1.243: No such file or directory
+Lmod has detected the following error: These module(s) exist but cannot be
+loaded as requested: "mvapich2"
+   Try: "module spider mvapich2" to see how to load the module(s).
+
+
+
+  DEPRECATION: A future pip version will change local packages to be built in-place without first copying to a temporary directory. We recommend you use --use-feature=in-tree-build to test your packages with this new behavior before it becomes the default.
+   pip 21.3 will remove support for this functionality. You can find discussion regarding this at https://github.com/pypa/pip/issues/7555.

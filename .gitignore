@@ -1,0 +1,6 @@
+data
+.neptune
+__pycache__
+layer_record
+output_*
+*.txt
